@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs grep *)",
+      "Bash(npm install *)",
+      "Bash(mkdir -p c:/ai-afternoon/types)",
+      "Bash(mkdir -p c:/ai-afternoon/app/api/tickets)"
+    ]
+  }
+}
